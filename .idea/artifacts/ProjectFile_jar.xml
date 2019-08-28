@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectFile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectFile_jar</output-path>
+    <root id="archive" name="ProjectFile.jar">
+      <element id="module-output" name="ProjectFile" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/json-simple-1.1.jar/json-simple-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/CSV_jar_files/opencsv-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/java-json.jar/java-json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/gson-2.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/jackson-annotations-2.1.2.jar/jackson-annotations-2.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/com.fasterxml.jackson.databind.jar/com.fasterxml.jackson.databind.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/apixu-java-master/apixu-java-master/weatherlibraryjava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/com.fasterxml.jackson.core_.jar_/com.fasterxml.jackson.core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

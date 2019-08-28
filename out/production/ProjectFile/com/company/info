@@ -1,0 +1,19 @@
+city Call :
+Copenhagen : http://api.apixu.com/v1/current.json?key=794a685acb5a445db51181013191508&q=Copenhagen
+Odense : http://api.apixu.com/v1/current.json?key=794a685acb5a445db51181013191508&q=Odense
+Århus : http://api.apixu.com/v1/current.json?key=794a685acb5a445db51181013191508&q=Århus
+
+Data requirements:
+- Location
+- Max. temperature in Celsius
+- Min. temperature in Celsius
+- Sunrise
+- Sunset
+- Weather conditions
+
+Requirements from the consultants:
+- We need data for Copenhagen, Odense and Århus
+- We need data for the previous 7 days
+- The data must be saved in CSV format with headers, and with UTF-8 encoding.
+
+ 

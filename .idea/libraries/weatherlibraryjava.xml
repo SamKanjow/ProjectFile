@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="weatherlibraryjava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Library/apixu-java-master/apixu-java-master/weatherlibraryjava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
